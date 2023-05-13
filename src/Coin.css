@@ -61,8 +61,10 @@
   
   .red {
     color: #f00606;
+    font-weight: bold;
   }
   
   .green {
     color: #11d811;
+    font-weight: bold;
   }
